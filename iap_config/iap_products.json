@@ -1,0 +1,19 @@
+{
+  "app": "Nest Story",
+  "package": "com.NestStoryMNG.NestStory",
+  "remoteConfig": "https://api2.blwsmartware.net/N322.json",
+  "products": [
+    { "productId": "ns_pack_1", "type": "consumable", "stars": 50, "name": "Nest Story Coin Pack 1" },
+    { "productId": "ns_pack_2", "type": "consumable", "stars": 100, "name": "Nest Story Coin Pack 2" },
+    { "productId": "ns_pack_3", "type": "consumable", "stars": 200, "name": "Nest Story Coin Pack 3" },
+    { "productId": "ns_pack_4", "type": "consumable", "stars": 350, "name": "Nest Story Coin Pack 4" },
+    { "productId": "ns_pack_5", "type": "consumable", "stars": 500, "name": "Nest Story Coin Pack 5" },
+    { "productId": "ns_pack_6", "type": "consumable", "stars": 750, "name": "Nest Story Coin Pack 6" },
+    { "productId": "ns_pack_7", "type": "consumable", "stars": 1000, "name": "Nest Story Coin Pack 7" },
+    { "productId": "ns_pack_8", "type": "consumable", "stars": 1500, "name": "Nest Story Coin Pack 8" },
+    { "productId": "ns_pack_9", "type": "consumable", "stars": 2200, "name": "Nest Story Coin Pack 9" },
+    { "productId": "ns_pack_10", "type": "consumable", "stars": 3000, "name": "Nest Story Coin Pack 10" },
+    { "productId": "ns_remove_ads", "type": "non-consumable", "stars": 0, "name": "Nest Story Remove Ads" },
+    { "productId": "ns_pro", "type": "non-consumable", "stars": 0, "name": "Nest Story Pro" }
+  ]
+}
